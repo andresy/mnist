@@ -1,4 +1,4 @@
-require 'torch'
+local torch = require 'torch'
 require 'paths'
 
 local mnist = {}
